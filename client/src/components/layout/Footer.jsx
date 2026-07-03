@@ -53,7 +53,7 @@ export default function Footer() {
 
       <div className="border-t border-rose-100 py-5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center gap-3">
-          <p className="text-xs text-inkmuted">© 2026 @Swastik_Team. All Rights Reserved.</p>
+          <p className="text-xs text-inkmuted">© 2026 @Prince_Kumar. All Rights Reserved.</p>
           <div className="flex items-center gap-3">
             <a href="https://www.instagram.com/sswastik_creationss/" aria-label="Instagram" className="text-rose-600 hover:text-rose-700"><Instagram size={16} /></a>
             <a href="https://www.facebook.com/sswastik_creationss/" aria-label="Facebook" className="text-rose-600 hover:text-rose-700"><Facebook size={16} /></a>
